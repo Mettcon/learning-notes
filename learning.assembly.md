@@ -3,11 +3,11 @@
 - [NASM Windows Assembly Tutorial](https://sonictk.github.io/asm_tutorial/)
 
 copied from somewhere
-Getting started with NASM and DDD --> https://www.youtube.com/watch?v=YyovCxsMVio
-Assembly integer arithmetic --> https://www.youtube.com/watch?v=-KfZaJclqk4
-Assembly floating-point arithmetic --> https://www.youtube.com/watch?v=n1gIv40VSgA
-Assembly control instructions --> https://www.youtube.com/watch?v=s38DcLv1wYk
-Assembly and process stack --> https://www.youtube.com/watch?v=7nPru8b7SjY
-Assembly functions --> https://www.youtube.com/watch?v=QOPOeDPlNZo
-Stack buffer overflow --> https://www.youtube.com/watch?v=BW2obfJtkPw
-System services --> https://www.youtube.com/watch?v=qzTlkJsq3Xo 
+Getting started with NASM and DDD --> https://www.youtube.com/watch?v=YyovCxsMVio  
+Assembly integer arithmetic --> https://www.youtube.com/watch?v=-KfZaJclqk4  
+Assembly floating-point arithmetic --> https://www.youtube.com/watch?v=n1gIv40VSgA  
+Assembly control instructions --> https://www.youtube.com/watch?v=s38DcLv1wYk  
+Assembly and process stack --> https://www.youtube.com/watch?v=7nPru8b7SjY  
+Assembly functions --> https://www.youtube.com/watch?v=QOPOeDPlNZo  
+Stack buffer overflow --> https://www.youtube.com/watch?v=BW2obfJtkPw  
+System services --> https://www.youtube.com/watch?v=qzTlkJsq3Xo  
