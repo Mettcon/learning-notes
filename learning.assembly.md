@@ -2,7 +2,7 @@
 - [System V Application Binary Interface AMD64 Architecture Processor Supplement](https://gitlab.com/x86-psABIs/x86-64-ABI/-/tree/master)
 - [NASM Windows Assembly Tutorial](https://sonictk.github.io/asm_tutorial/)
 
-copied from somewhere
+copied from somewhere  
 Getting started with NASM and DDD --> https://www.youtube.com/watch?v=YyovCxsMVio  
 Assembly integer arithmetic --> https://www.youtube.com/watch?v=-KfZaJclqk4  
 Assembly floating-point arithmetic --> https://www.youtube.com/watch?v=n1gIv40VSgA  
