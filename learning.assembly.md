@@ -1,1 +1,3 @@
-[Nasm Macro File](https://gist.github.com/Mettcon/1f5347e27c47870035ce2aa5e8c333c0)
+- [Nasm Macro File](https://gist.github.com/Mettcon/1f5347e27c47870035ce2aa5e8c333c0)
+- [System V Application Binary Interface AMD64 Architecture Processor Supplement](https://gitlab.com/x86-psABIs/x86-64-ABI/-/tree/master)
+- [NASM Windows Assembly Tutorial](https://sonictk.github.io/asm_tutorial/)
