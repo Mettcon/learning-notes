@@ -4,7 +4,7 @@
 most commonly used registers for general computations, data manipulation, and memory addressing.
 
 64 | 32 | 16 | Upper 8 | Lower 8 | Type
-------|---
+--- | --- | --- | --- | --- | --- |
 RAX | EAX | AX | AH | AL | Accumulator (Arithmetic, Return Values)
 RBX | EBX | BX | BH | BL | Base (Memory Addressing)
 RCX | ECX | CX | CH | CL | Counter (Loops, Shifts)
@@ -36,7 +36,7 @@ It's unlikely to need access to sub elements of a register. If this kind of opti
 ### Segment Registers
 
 Register | 16-bit Real Mode | 32-bit Protected Mode | 64-bit Mode
------|---
+--- | --- | --- | --
 CS | Code Segment: Used to calculate the physical address of instructions (CS * 16 + IP). | Code Segment: Acts as a selector to index into a descriptor table (GDT or LDT). The descriptor contains the actual base address, limit, and attributes. | Code Segment: Primarily used for code segment attributes (like privilege level). The base address is usually 0, contributing to a flat memory model. Still a 16-bit selector.
 DS | Data Segment: Used to calculate the physical address of data (DS * 16 + offset). | Data Segment: Acts as a selector to index into a descriptor table. The descriptor contains the actual base address, limit, and attributes. | Data Segment: Generally unused. The base address is effectively 0, contributing to a flat memory model.
 SS | Stack Segment: Used to calculate the physical address of the stack (SS * 16 + SP). | Stack Segment: Acts as a selector to index into a descriptor table. The descriptor contains the actual base address, limit, and attributes. | Stack Segment: Still used for stack operations, but the base address is effectively 0 in most cases, contributing to a flat memory model.
@@ -59,7 +59,7 @@ When you load a selector into a segment register in 64-bit mode (usinginstructio
 ### Flags Register (RFLAGS/EFLAGS)
 
 | Flag | Bit | Name | Description | Affected By | Used By|
-----|-----
+----|----- | --- | --- | --- | ---
 | CF | 0 | Carry Flag | Set if an arithmetic operation generates a carry-out of the most significant bit (for unsigned arithmetic) or a borrow (for subtraction).| Arithmetic instructions (ADD, SUB, MUL, DIV, etc.), shift and rotate instructions.| Conditional jumps (JC, JNC), multi-precision arithmetic.
 | PF | 2 | Parity Flag| Set if the low-order byte of the result of an operation contains an even number of 1 bits (even parity). | Arithmetic and logical instructions.| Rarely used in modern programming. |
 | AF | 4 | Auxiliary Carry Flag | Set if there is a carry from bit 3 to bit 4 (or a borrow from bit 4) during an arithmetic operation. Used for Binary Coded Decimal (BCD) arithmetic.| Arithmetic instructions.| Used in BCD arithmetic (less common now).|
