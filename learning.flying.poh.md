@@ -116,6 +116,7 @@ _______________________________________________________________ 1 / _____
 c) Über welchen Drehregler auf dem Intercom (GMA340) lässt sich die
 Lautstärke der Bordverständigung (Intercom) für den Piloten (Flugschüler) anpassen?
 Drehregler Nr: _______________________ 1 / _____
+![picture of gns430](gns430.png "gns430")
 e) GNS430: In welcher Seitengruppe (PAGE GROUP) finden Sie Informationen zu den
 nächstgelegenen Flughäfen?
 __________________________________________________________ 1 / _____
