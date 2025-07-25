@@ -1,13 +1,10 @@
 1. Grunddaten Flugzeug: Zelle / Triebwerk:
-a) Flügelspannweite _______________________ 1 / _____
-b) Wenderadius: _______________________ 1 / _____
-c) Bauweise: _______________________
-_______________________ 2 / _____
-d) Hersteller des Motors: _______________________ 1 / _____
-e) Motorbezeichnung: _______________________ 1 / _____
-f) Motorbauart: _______________________
-_______________________
-_______________________ 4 / _____
+a) Flügelspannweite _______________________ 1 / _____  
+b) Wenderadius: _______________________ 1 / _____  
+c) Bauweise: ______________________________________________ 2 / _____  
+d) Hersteller des Motors: _______________________ 1 / _____  
+e) Motorbezeichnung: _______________________ 1 / _____  
+f) Motorbauart: ______________________________________________ 4 / _____  
 g) Max. Leistung: ____ PS bei ______ RPM 2 / _____
 h) Ölstand min.: _____ qt = ______ l 2 / _____
 i) Ölstand max.: _____ qt = ______ l 2 / _____
@@ -25,9 +22,9 @@ c) Max. Landegewicht: _____________ kg 1 / _____
 d) Max. Zuladung im Gepäckraum: _______ kg Zone 1
 _______ kg Zone 2
 _______ kg Gesamt 3 / _____
-e) Leergewicht D-EDGG: _____________ kg 1 / _____
-f) Leergewichtsmoment D-EDGG ___________m*kg 1 / _____
-3. Kraftstoff / Kraftstoffsystem:
+e) Leergewicht : _____________ kg 1 / _____
+f) Leergewichtsmoment  ___________m*kg 1 / _____
+1. Kraftstoff / Kraftstoffsystem:
 a) Zulässige Kraftstoffsorten _______,__________,____________ 3 / ______
 b) Gesamtfassungsvermögen: ________ l = _______ USG (beide Tanks) 2 / ______
 c) Ausfliegbarer Kraftstoff: _________ l = _______ USG (beide Tanks) 2 / ______
@@ -50,29 +47,29 @@ vA               680 kg 3 / _____
 VFE              10°
 VFE              20°
 VFE              30° 2 / _____
-Höchstzulässige Geschwindigkeit bei geöffnetem Fenster 1 / _____
-vSO _____               ° Klappen, max. Gewicht, vordere Schwerpunktlage 3 / _____
-vS _____                ° Klappen, max. Gewicht, vordere Schwerpunktlage 3 / _____
-vX ____           758 kg 2 / _____
-vY ____               758 kg, MSL  2 / _____
-Normaler Reisesteigflug   ____      ____ ° Klappen 3 / _____
-VG Beste Gleitfluggeschwindigkeit ____   ____ ° Klappen 2 / _____
+Höchstzulässige Geschwindigkeit bei geöffnetem Fenster 1 / _____  
+vSO _____               ° Klappen, max. Gewicht, vordere Schwerpunktlage 3 / _____  
+vS _____                ° Klappen, max. Gewicht, vordere Schwerpunktlage 3 / _____  
+vX ____           758 kg 2 / _____  
+vY ____               758 kg, MSL  2 / _____  
+Normaler Reisesteigflug   ____      ____ ° Klappen 3 / _____  
+VG Beste Gleitfluggeschwindigkeit ____   ____ ° Klappen 2 / _____  
 
 
 Fahrtmesser - Markierungen:
 Markierung  KIAS - Bereich   Bedeutung
-Weißer Bogen                             3 / ____
-Grüner Bogen                             3 / ____
-Gelber Bogen                             3 / ____
+Weißer Bogen                             3 / ____  
+Grüner Bogen                             3 / ____  
+Gelber Bogen                             3 / ____  
 
 5. Technik:
-a) Wie viele Abnahmestellen für den statischen Druck (Static Port) hat eine C152? _____________ 1 / _____
+a) Wie viele Abnahmestellen für den statischen Druck (Static Port) hat eine C152? _____________ 1 / _____  
 b) Wo befinden / befindet sich diese: ________________________ 1 / _____
-c) Welche Instrumente wären von einer Blockade des Static Ports betroffen?  ________________________________________________________ 3 / _____
-d) Wie oft betätigt man den Primer (Einspritzpumpe) (> 0°C)? _____ 1 / _____
-e) Wie schnell muss sich der Öldruck (abhängig von der Jahreszeit) aufbauen? _____________________________________ 2 / _____
+c) Welche Instrumente wären von einer Blockade des Static Ports betroffen?  ________________________________________________________ 3 / _____  
+d) Wie oft betätigt man den Primer (Einspritzpumpe) (> 0°C)? _____ 1 / _____ 
+e) Wie schnell muss sich der Öldruck (abhängig von der Jahreszeit) aufbauen? _____________________________________ 2 / _____  
 f) Was ist der Mindestöldruck nach dem Anlassen? _____________ 1 / _____
-g) Wie ist der Mindestöldruck auf dem Instrument gekennzeichnet? _______________________________________________________ 1 / _____
+g) Wie ist der Mindestöldruck auf dem Instrument gekennzeichnet? _______________________________________________________ 1 / _____  
 h) Beschreiben Sie in Grundzügen das Anlassverfahren eines warmen Triebwerks:
 Gemisch ______________________
 Vergaservorwärmung ______________________
@@ -127,3 +124,19 @@ i) GTX330 Transponder: Mit welchen Tasten kann der Transponder angeschaltet werd
 __________________________________________________________ 3 / _____
 j) GTX330 Transponder: Was bewirkt das drücken der „VFR“ Taste?
 __________________________________________________________ 2 / _____
+
+7. Notverfahren / Notausrüstung
+(Handbücher für die Ausrüstung werden benötigt.)
+a) Wo befindet sich der Brandhahn? _________________________ 1 / _____
+b) Wo befindet sich die Notaxt? _____________________________ 1 / _____
+c) Wo befindet sich der Feuerlöscher? ________________________ 1 / _____
+d) Beschreiben Sie das Verfahren bei Triebwerksbrand beim Anlassen
+(Motor springt nicht an):
+________________________________________________________
+________________________________________________________
+________________________________________________________
+________________________________________________________
+________________________________________________________
+________________________________________________________
+________________________________________________________
+________________________________________________________ 8 / _____
